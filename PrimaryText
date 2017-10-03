@@ -1,5 +1,11 @@
 This is my first file. This is the first file i added to my project.
 
+<<<<<<< HEAD
 This file comes before all other files.
 
 Lets do a non ff merge.
+=======
+This file comes before all other files
+
+Branch within branches,
+>>>>>>> shorten-title
